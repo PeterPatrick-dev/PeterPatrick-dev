@@ -38,5 +38,5 @@
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Patrick-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/peter-patrick-30b617339/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://kaggle.com/krisbarz)
+[![Kaggle](https://img.shields.io/badge/Kaggle-krisbarz-blue?style=flat&logo=kaggle)](https://kaggle.com/krisbarz)
 [![Email](https://img.shields.io/badge/Email-testnetfirefly%40gmail.com-red?style=flat&logo=gmail)](mailto:testnetfirefly@gmail.com)
