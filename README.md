@@ -4,7 +4,7 @@
 🤖 ML Engineer in training — specializing in Applied AI & Game Intelligence  
 🏥 Built a CNN ensemble system (DenseNet121 + ResNet50 + EfficientNetB0) for pneumonia detection  
 🎮 Passionate about Game AI and Reinforcement Learning  
-📍 Based in Abuja, Nigeria | Open to remote & local opportunities  
+📍 Based in Abuja, Nigeria | Open to remote & local opportunities
 
 ---
 
@@ -13,7 +13,7 @@
 **Languages:** Python · PHP · Java · C · HTML/CSS  
 **ML/DL:** TensorFlow · Keras · Scikit-learn · OpenCV  
 **Tools:** Git · VS Code · WEKA · Google Colab · Jupyter  
-**Currently Learning:** FastAPI · MLflow · Reinforcement Learning · Pygame  
+**Currently Learning:** FastAPI · MLflow · Reinforcement Learning · Pygame
 
 ---
 
@@ -32,6 +32,14 @@
 - 🎮 Building my first Game AI project with Reinforcement Learning
 - 🌐 Deploying ML models as live web applications
 - 📚 Kaggle Learn — Intermediate ML
+
+---
+
+## 📊 GitHub Stats
+
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterPatrick-dev&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPatrick-dev&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=PeterPatrick-dev&theme=tokyonight&hide_border=true)
 
 ---
 
